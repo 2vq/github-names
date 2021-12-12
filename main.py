@@ -4,10 +4,12 @@ import random
 import string
 import requests
 import threading
+from slowprint.slowprint import slowprint as slowp
 from colorama import Fore
 
 os.system('cls')
 
+slowp(f'NOTE: might get you ratelimited very fast!', 0.2)
 threadcount = input(f'{Fore.LIGHTBLACK_EX}>{Fore.BLUE} Threads{Fore.LIGHTBLACK_EX}: {Fore.LIGHTBLUE_EX}')
 amount = input(f'{Fore.LIGHTBLACK_EX}>{Fore.BLUE} Amount{Fore.LIGHTBLACK_EX}: {Fore.LIGHTBLUE_EX}')
 Letter = input(f'{Fore.LIGHTBLACK_EX}>{Fore.BLUE} Letters{Fore.LIGHTBLACK_EX}: {Fore.LIGHTBLUE_EX}')
