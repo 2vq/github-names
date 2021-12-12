@@ -10,7 +10,7 @@ os.system('cls')
 def check():
         os.system(f'cls & title Github Name Checker')
         amount = input(f'{Fore.LIGHTBLACK_EX}>{Fore.BLUE} Amount{Fore.LIGHTBLACK_EX}: {Fore.LIGHTBLUE_EX}')
-        Letter = input(f'> Letters: ')
+        Letter = input(f'{Fore.LIGHTBLACK_EX}>{Fore.BLUE} Letters{Fore.LIGHTBLACK_EX}: {Fore.LIGHTBLUE_EX}')
         for i in range(int(amount)):
             try:
                 code = ''.join(random.choices(string.ascii_letters + string.digits, k = (int(Letter))))
