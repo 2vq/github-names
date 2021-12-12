@@ -5,7 +5,8 @@
 * just run main2.py
 * if main2.py doesnt work run exe
 
-# Automated one
+# Automated version
+* gets updated once a 3 letter is opened
 [github-names](https://github.com/KAMKAZEMARCI/3-char-github-names/)
 
 # Discord Server:
