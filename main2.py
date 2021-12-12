@@ -14,7 +14,7 @@ os.system('cls')
 #Letter = input(f'{Fore.LIGHTBLACK_EX}>{Fore.BLUE} Letters{Fore.LIGHTBLACK_EX}: {Fore.LIGHTBLUE_EX}')
 
 def check():
-  slowp(f'NOTE: This wont get you ratelimited so easily', 0.2)
+    slowp(f'NOTE: This wont get you ratelimited so easily', 0.2)
     amount = input(f'{Fore.LIGHTBLACK_EX}>{Fore.BLUE} Amount{Fore.LIGHTBLACK_EX}: {Fore.LIGHTBLUE_EX}')
     Letter = input(f'{Fore.LIGHTBLACK_EX}>{Fore.BLUE} Letters{Fore.LIGHTBLACK_EX}: {Fore.LIGHTBLUE_EX}')
     for i in range(int(amount)):
