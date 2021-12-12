@@ -5,5 +5,8 @@
 * just run main2.py
 * if main2.py doesnt work run exe
 
+# Automated one
+[github-names](https://github.com/KAMKAZEMARCI/3-char-github-names/)
+
 # Discord Server:
 [! vault](https://discord.gg/DybAf2Tk9G)
