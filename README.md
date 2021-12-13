@@ -1,4 +1,4 @@
-# Github Name checker
+# Github Name checker/gen
 * got bored n decided to make a github name checker/gen! :D
 
 # How to use
